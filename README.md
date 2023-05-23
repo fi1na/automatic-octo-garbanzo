@@ -1,6 +1,6 @@
 Deloitte Australia Technology virtual experience program. 
 It consists of 5 tasks :-
-Coding
+Coding,
 Data Analysis, 
 Development,
 Cyber Security,
