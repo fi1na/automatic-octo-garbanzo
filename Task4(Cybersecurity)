@@ -1,0 +1,4 @@
+Q-1.Is there a way for a hacker to access Daikibo's manufacturing status dashboard directly from the internet ?
+Ans: No the attacker has no direct access to the status dashboard
+Q-2.Looking at the web_requests.log-what is the user id with the most suspicious activity ?
+Ans: mdB7yD2dp1BFZPontHBQ1Z
